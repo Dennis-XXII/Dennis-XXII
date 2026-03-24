@@ -70,8 +70,6 @@ Studying to become a proficient full-stack developer in React & Node.
 
 ## 📊 GitHub Stats
 
-> Stats are pulled live by GitHub's own rendering engine — no third-party service required.
-
 [![Kyaw Swar Hein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis-XXII&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Dennis-XXII)
 
 ---
@@ -84,10 +82,9 @@ Studying to become a proficient full-stack developer in React & Node.
 
 | Repository | Description |
 |---|---|
-| 🔗 [Portfolio](https://github.com/Dennis-XXII) | Personal portfolio site |
-| 🔗 [RSUGlobal Project](https://github.com/Dennis-XXII) | Frontend work at RSUGlobal |
-
-> 💡 **Tip:** Pin your best repos from your GitHub profile page — they'll automatically appear in the Pinned section of your profile without needing a widget.
+| [Portfolio]([https://github.com/Dennis-XXII](https://kyawswarhein.netlify.app/)) | Visit My Portfolio |
+| [RSUGlobal Project](https://github.com/Dennis-XXII) | FullStack & Managerial work at RSUGlobal Development Team |
+| [RIC Foundation Program LMS](https://github.com/Dennis-XXII/foundation-LMS) | Customized LMS for RIC English Foundation Program |
 
 ---
 
